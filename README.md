@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aryan Pithva
 
-<!--
-**aryan-pithva/aryan-pithva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Information Technology Graduate
 
-Here are some ideas to get you started:
+🤖 Incoming B.Tech CSE (Artificial Intelligence & Machine Learning) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving.
+
+I enjoy learning new technologies through hands-on practice, building projects, and continuously improving my programming skills.
+
+---
+
+## 💻 Programming Languages
+
+- Python
+- C
+
+---
+
+## 🛠️ Technologies & Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Machine Learning
+- Statistics
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+
+---
+
+## 🎯 Goals
+
+- Build real-world AI applications
+- Contribute to open-source projects
+- Become an AI & Machine Learning Engineer
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *https://www.linkedin.com/in/aryan-pithva/*
+
+---
+
+> **"Learning one commit at a time."** 🚀
