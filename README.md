@@ -2,7 +2,7 @@
 
 🎓 Diploma in Information Technology Graduate
 
-🤖 Incoming B.Tech CSE (Artificial Intelligence & Machine Learning) Student
+🤖 B.Tech CSE (Artificial Intelligence & Machine Learning) Student
 
 ---
 
