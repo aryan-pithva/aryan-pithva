@@ -21,7 +21,7 @@ I enjoy learning new technologies through hands-on practice, building projects, 
 
 ---
 
-## 🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries:
 
 - NumPy
 - Pandas
