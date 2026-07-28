@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 I'm passionate about Artificial Intelligence, Machine Learning, Software Development, and Problem Solving.
 
