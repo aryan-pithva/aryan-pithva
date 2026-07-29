@@ -32,7 +32,7 @@ I enjoy learning new technologies through hands-on practice, building projects, 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning:
 
 - Data Structures & Algorithms
 - Artificial Intelligence
