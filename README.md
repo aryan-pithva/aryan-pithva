@@ -41,7 +41,7 @@ I enjoy learning new technologies through hands-on practice, building projects, 
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals:
 
 - Build real-world AI applications
 - Contribute to open-source projects
