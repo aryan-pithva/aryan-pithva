@@ -49,7 +49,7 @@ I enjoy learning new technologies through hands-on practice, building projects, 
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me:
 
 - LinkedIn: *https://www.linkedin.com/in/aryan-pithva/*
 
