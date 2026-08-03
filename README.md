@@ -14,7 +14,7 @@ I enjoy learning new technologies through hands-on practice, building projects, 
 
 ---
 
-## 💻 Programming Languages:
+## 💻 Programming Languages
 
 - Python
 - C
